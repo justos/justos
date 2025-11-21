@@ -4,4 +4,4 @@ My main programming language is [Luau](https://luau.org), a programming language
 
 I dabble in many programming languages, such as: Go, Rust, Lua, Java, C++, C.
 
-I'm currently working on a package manager written in [Go](https://go.dev) for Luau.
+I'm currently working on multiple projects for Luau and general use.
